@@ -1,7 +1,5 @@
-# Java Triangle Tracker
+# Code Tracker
 Version 0.0.1: September 6, 2016 by [Karen Freeman-Smith](https://github.com/karenfreemansmith) and [Georgina Van Dort](https://github.com/GeorginaVanDort)
-
-![screenshot of project running](screenshot.png)
 
 ## Description
 Java program to track how much time you spend writing code
